@@ -37,22 +37,22 @@ const columns = [
 const data: InheritageFile[] =[
     {
         id: '1',
-        firstname: 'John',
-        secondname: 'Doe',
-        info: 'I am the white hat',
-        favDist: 'Debian',
-        username: 'Cocktail',
-        key: 4357,
-        w_mrrobot: 'Yes'
+        firstname: 'Marin',
+        secondname: 'Ionita',
+        info: 'Student',
+        favDist: 'Ubuntu',
+        username: 'Holera',
+        key: 2222,
+        w_mrrobot: 'YES'
     },
     {
         id: '2',
-        firstname: 'Constantin',
-        secondname: 'Libetsky',
-        info: 'BlackHat',
-        favDist: 'ArchLinux',
-        username: 'NewWorldOrder',
-        key: 21467867,
+        firstname: 'Andrei ',
+        secondname: 'Ionita',
+        info: 'Worker',
+        favDist: 'Windows',
+        username: 'supra',
+        key: 9494,
         w_mrrobot: 'No'
     },
 ]

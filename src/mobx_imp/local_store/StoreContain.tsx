@@ -11,7 +11,7 @@ const storageContain = LocalStorage.create({
             available: false,
         },{
             id: '2',
-            title: 'Horika',
+            title: 'Horeka',
             description: 'Everywhere you can eat',
             seen: false,
             notes: '',
